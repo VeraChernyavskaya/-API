@@ -1,4 +1,4 @@
-# Testing_API
+# **testing_API**
 
 [Тест-кейсы для API](https://github.com/VeraChernyavskaya/Testing_API/blob/main/Chernyavskaya_Test-case_API.pdf)
 
